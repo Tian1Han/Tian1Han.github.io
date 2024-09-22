@@ -2,7 +2,7 @@
 title: "Basic Operation"
 collection: programming
 type: "Programming"
-permalink: /talks/2012-03-01-talk-1
+permalink: /programming/2024-09-22_programming_Ubuntu
 date: 2024-09-22
 location: "SYSU, ShenZhen, Guangdong, China"
 ---
