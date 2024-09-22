@@ -1,11 +1,10 @@
-
-
 ---
-title: 'Basic Operation'
+title: "Basic Operation"
 collection: programming
-type: 'programming'
-local: "SYSU, ShenZhen, Guangdong, China"
-data: 2024-09-22
+type: "Programming"
+permalink: /talks/2012-03-01-talk-1
+date: 2024-09-22
+location: "SYSU, ShenZhen, Guangdong, China"
 ---
 
-This is a description of my programming, which is a markdown files that can be all markdown-ified like any other post. Yay markdowm!
+This is a description of my talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
