@@ -12,7 +12,7 @@ title                    : "Tian yi / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Tian yi"
 description              : &description "personal description"
-url                      : http://tian1han.github.io           # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tian1han.github.io           # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
