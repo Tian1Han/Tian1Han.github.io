@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "SkyOne0909"
+  name             : "Sky_One_0909"
   pronouns         : # example: "she/her"  
   bio              : "Just to try"
   location         : "ShenZhen, Guangdong, China"
@@ -221,7 +221,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  programming:
+    output: true
+    permalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -278,7 +280,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _programming
+  - scope:
+      path: ""
+      type: programming
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
