@@ -224,6 +224,9 @@ collections:
   programming:
     output: true
     permalink: /:collection/:path/
+  learning:
+    output: true
+    permalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -288,7 +291,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _learning
+  - scope:
+      path: ""
+      type: learning
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 # Sass/SCSS
 sass:
   sass_dir: _sass
